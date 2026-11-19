@@ -1,0 +1,51 @@
+contract_id,type,title,style,complexity,amendments,has_exhibit_d,target_pages,words,est_pages,provider,customer,effective_date,pdf_pages
+contract_01,MSA,Master Services Agreement,plain,low,0,True,30,17106,28,"Proseware Technologies, Inc.",First Up Consultants LLC,"October 1, 2024",28
+contract_02,Supply,Supply Agreement,legalese,high,3,False,33,19421,32,Wingtip Software GmbH,Humongous Insurance Co.,"January 1, 2025",32
+contract_03,DPA,Data Processing Services Agreement,plain,medium,1,True,21,11191,20,Alpine Ski Holdings Ltd,Margie's Travel Ltd,"March 1, 2025",20
+contract_04,Supply,Supply Agreement,plain,medium,1,False,42,25719,41,"Northwind Cloud Services, Inc.",VanArsdel Foods Ltd,"July 1, 2024",41
+contract_05,DPA,Data Processing Services Agreement,legalese,medium,1,True,27,15227,26,Lucerne Supply Co.,VanArsdel Foods Ltd,"July 1, 2024",26
+contract_06,Lease,Commercial Equipment Lease,legalese,medium,1,False,39,23074,37,Fabrikam Systems Ltd,VanArsdel Foods Ltd,"November 1, 2023",37
+contract_07,Licence,Software Licence Agreement,legalese,high,3,False,35,20672,34,Woodgrove Advisory LLP,Bellows College,"December 1, 2024",34
+contract_08,MSA,Master Services Agreement,plain,medium,1,False,46,28147,45,"Northwind Cloud Services, Inc.",Bellows College,"April 1, 2023",45
+contract_09,Lease,Commercial Equipment Lease,plain,high,3,False,14,7093,13,"Northwind Cloud Services, Inc.",VanArsdel Foods Ltd,"October 1, 2025",13
+contract_10,MSA,Master Services Agreement,british,medium,1,True,36,22192,36,"Northwind Cloud Services, Inc.",Margie's Travel Ltd,1 October 2023,36
+contract_11,Supply,Supply Agreement,british,high,3,False,13,7243,14,Tailspin Data Partners plc,VanArsdel Foods Ltd,1 July 2023,14
+contract_12,MSA,Master Services Agreement,plain,low,0,False,44,24213,39,Coho Manufacturing Group,"Datum Financial Group, Inc.","June 1, 2023",39
+contract_13,DPA,Data Processing Services Agreement,british,high,3,False,44,27370,44,"Proseware Technologies, Inc.",Munson's Pickles Inc.,1 May 2025,44
+contract_14,Licence,Software Licence Agreement,british,medium,1,False,41,25106,40,Lucerne Supply Co.,Graphic Design Institute,1 March 2023,40
+contract_15,MSA,Master Services Agreement,plain,high,3,True,47,30281,48,Tailspin Data Partners plc,Margie's Travel Ltd,"March 1, 2025",48
+contract_16,Lease,Commercial Equipment Lease,plain,medium,1,False,24,13918,23,Coho Manufacturing Group,Margie's Travel Ltd,"December 1, 2023",23
+contract_17,Licence,Software Licence Agreement,british,low,0,False,46,27371,44,Coho Manufacturing Group,Munson's Pickles Inc.,1 November 2023,44
+contract_18,MSA,Master Services Agreement,british,medium,1,True,43,25913,41,Alpine Ski Holdings Ltd,Humongous Insurance Co.,1 July 2023,41
+contract_19,SaaS,SaaS Subscription Agreement,plain,low,0,True,46,27706,44,"Blue Yonder Robotics, Inc.",Trey Research Corporation,"December 1, 2023",44
+contract_20,Consulting,Consulting Services Agreement,plain,high,2,False,36,22605,37,Tailspin Data Partners plc,Trey Research Corporation,"March 1, 2024",37
+contract_21,DPA,Data Processing Services Agreement,legalese,medium,1,False,36,23451,38,"Northwind Cloud Services, Inc.",Graphic Design Institute,"February 1, 2023",38
+contract_22,Supply,Supply Agreement,plain,medium,1,False,43,26490,42,"Blue Yonder Robotics, Inc.",First Up Consultants LLC,"April 1, 2025",42
+contract_23,Consulting,Consulting Services Agreement,plain,low,0,False,47,31790,50,"Proseware Technologies, Inc.","Datum Financial Group, Inc.","January 1, 2025",50
+contract_24,Consulting,Consulting Services Agreement,plain,high,3,False,34,22097,36,Tailspin Data Partners plc,Munson's Pickles Inc.,"June 1, 2024",36
+contract_25,SaaS,SaaS Subscription Agreement,plain,medium,1,True,31,19400,32,Fabrikam Systems Ltd,Relecloud Retail Inc.,"December 1, 2023",32
+contract_26,DPA,Data Processing Services Agreement,plain,medium,1,True,44,27301,44,"Blue Yonder Robotics, Inc.","Contoso Health Systems, LLC","February 1, 2025",44
+contract_27,Supply,Supply Agreement,british,high,3,False,26,15330,26,"Northwind Cloud Services, Inc.",Margie's Travel Ltd,1 December 2025,26
+contract_28,SaaS,SaaS Subscription Agreement,british,low,0,True,29,17042,28,Coho Manufacturing Group,Munson's Pickles Inc.,1 September 2023,28
+contract_29,SaaS,SaaS Subscription Agreement,plain,high,3,True,21,10561,19,Lucerne Supply Co.,Relecloud Retail Inc.,"March 1, 2023",19
+contract_30,Consulting,Consulting Services Agreement,british,high,3,False,47,29835,47,Tailspin Data Partners plc,Munson's Pickles Inc.,1 March 2023,47
+contract_31,DPA,Data Processing Services Agreement,plain,low,0,True,48,31864,50,"Northwind Cloud Services, Inc.",First Up Consultants LLC,"July 1, 2025",50
+contract_32,SaaS,SaaS Subscription Agreement,legalese,high,2,False,17,7932,15,Alpine Ski Holdings Ltd,Munson's Pickles Inc.,"March 1, 2024",15
+contract_33,Licence,Software Licence Agreement,legalese,medium,1,False,26,15915,27,Woodgrove Advisory LLP,VanArsdel Foods Ltd,"August 1, 2023",27
+contract_34,Consulting,Consulting Services Agreement,british,high,2,False,33,20630,33,Fabrikam Systems Ltd,VanArsdel Foods Ltd,1 January 2025,33
+contract_35,Supply,Supply Agreement,british,medium,1,False,17,7982,15,Wingtip Software GmbH,Relecloud Retail Inc.,1 February 2025,15
+contract_36,Supply,Supply Agreement,british,medium,1,False,20,10620,19,Coho Manufacturing Group,VanArsdel Foods Ltd,1 December 2025,19
+contract_37,Lease,Commercial Equipment Lease,legalese,low,0,False,33,19856,32,Fabrikam Systems Ltd,Trey Research Corporation,"August 1, 2023",32
+contract_38,DPA,Data Processing Services Agreement,plain,high,2,False,15,6497,13,Lucerne Supply Co.,VanArsdel Foods Ltd,"January 1, 2024",13
+contract_39,DPA,Data Processing Services Agreement,british,low,0,True,23,13109,23,Alpine Ski Holdings Ltd,Margie's Travel Ltd,1 March 2024,23
+contract_40,DPA,Data Processing Services Agreement,legalese,medium,1,True,34,19371,32,"Northwind Cloud Services, Inc.",Graphic Design Institute,"September 1, 2023",32
+contract_41,MSA,Master Services Agreement,british,low,0,True,12,5180,11,Coho Manufacturing Group,VanArsdel Foods Ltd,1 November 2023,11
+contract_42,Lease,Commercial Equipment Lease,british,high,2,False,40,28307,44,Lucerne Supply Co.,Relecloud Retail Inc.,1 January 2024,44
+contract_43,Supply,Supply Agreement,british,high,3,False,44,26213,42,Tailspin Data Partners plc,Humongous Insurance Co.,1 April 2025,42
+contract_44,Licence,Software Licence Agreement,legalese,high,3,False,15,7547,14,Wingtip Software GmbH,Bellows College,"February 1, 2025",14
+contract_45,MSA,Master Services Agreement,legalese,medium,1,False,17,8388,15,Fabrikam Systems Ltd,Bellows College,"February 1, 2025",15
+contract_46,Supply,Supply Agreement,legalese,high,3,False,43,25622,41,Woodgrove Advisory LLP,Graphic Design Institute,"August 1, 2025",41
+contract_47,SaaS,SaaS Subscription Agreement,british,high,2,True,50,25021,40,"Northwind Cloud Services, Inc.","Contoso Health Systems, LLC",1 May 2023,40
+contract_48,DPA,Data Processing Services Agreement,plain,low,0,False,43,28341,45,Adventure Works Logistics Corp.,"Contoso Health Systems, LLC","April 1, 2023",45
+contract_49,Consulting,Consulting Services Agreement,plain,medium,1,False,48,30698,48,Coho Manufacturing Group,Trey Research Corporation,"February 1, 2023",48
+contract_50,SaaS,SaaS Subscription Agreement,british,low,0,False,49,30917,49,Alpine Ski Holdings Ltd,Munson's Pickles Inc.,1 September 2025,49

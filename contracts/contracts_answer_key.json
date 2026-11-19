@@ -1,0 +1,5429 @@
+{
+ "contract_01": {
+  "meta": {
+   "contract_id": "contract_01",
+   "type": "MSA",
+   "title": "Master Services Agreement",
+   "style": "plain",
+   "complexity": "low",
+   "amendments": 0,
+   "has_exhibit_d": true,
+   "target_pages": 30,
+   "words": 17106,
+   "est_pages": 28,
+   "provider": "Proseware Technologies, Inc.",
+   "customer": "First Up Consultants LLC",
+   "effective_date": "October 1, 2024",
+   "pdf_pages": 28
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "45 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "20% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 7%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "24 months from October 1, 2024, i.e. end of September 2026",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "12 months x $85,000 = $1,020,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "15 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 2x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving biometric data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "36 hours for PHI under Exhibit D (which prevails); 48 hours for other Covered Data",
+    "sources": [
+     "10.2",
+     "Exhibit C.4",
+     "10.3",
+     "Exhibit D.1",
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_02": {
+  "meta": {
+   "contract_id": "contract_02",
+   "type": "Supply",
+   "title": "Supply Agreement",
+   "style": "legalese",
+   "complexity": "high",
+   "amendments": 3,
+   "has_exhibit_d": false,
+   "target_pages": 33,
+   "words": 19421,
+   "est_pages": 32,
+   "provider": "Wingtip Software GmbH",
+   "customer": "Humongous Insurance Co.",
+   "effective_date": "January 1, 2025",
+   "pdf_pages": 32
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "180 days (amended from 45)",
+    "sources": [
+     "15.3",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "10% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "2% regardless of the index (amended)",
+    "sources": [
+     "7.4",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "24 months from January 1, 2025, i.e. end of December 2026",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $43,200 = $259,200",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "45 days (amended from 30)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving trade secret formulations count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "72 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_03": {
+  "meta": {
+   "contract_id": "contract_03",
+   "type": "DPA",
+   "title": "Data Processing Services Agreement",
+   "style": "plain",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": true,
+   "target_pages": 21,
+   "words": 11191,
+   "est_pages": 20,
+   "provider": "Alpine Ski Holdings Ltd",
+   "customer": "Margie's Travel Ltd",
+   "effective_date": "March 1, 2025",
+   "pdf_pages": 20
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "60 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "25% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 3%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "48 months from March 1, 2025, i.e. end of February 2029",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "3 months x $240,000 = $720,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "45 days (amended from 30)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 3 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving employee compensation data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "36 hours for personal data under Exhibit D (which prevails); 72 hours for other Covered Data",
+    "sources": [
+     "10.2",
+     "Exhibit C.4",
+     "10.3",
+     "Exhibit D.1",
+     "18.2"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_04": {
+  "meta": {
+   "contract_id": "contract_04",
+   "type": "Supply",
+   "title": "Supply Agreement",
+   "style": "plain",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": false,
+   "target_pages": 42,
+   "words": 25719,
+   "est_pages": 41,
+   "provider": "Northwind Cloud Services, Inc.",
+   "customer": "VanArsdel Foods Ltd",
+   "effective_date": "July 1, 2024",
+   "pdf_pages": 41
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "45 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "40% of the monthly fee (amended from 25%)",
+    "sources": [
+     "5.3",
+     "Exhibit B.5",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 3%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "24 months from July 1, 2024, i.e. end of June 2026",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $129,600 = $777,600",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "30 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 3 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 2x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving biometric data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "72 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_05": {
+  "meta": {
+   "contract_id": "contract_05",
+   "type": "DPA",
+   "title": "Data Processing Services Agreement",
+   "style": "legalese",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": true,
+   "target_pages": 27,
+   "words": 15227,
+   "est_pages": 26,
+   "provider": "Lucerne Supply Co.",
+   "customer": "VanArsdel Foods Ltd",
+   "effective_date": "July 1, 2024",
+   "pdf_pages": 26
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "30 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "10% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 7%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "36 months from July 1, 2024, i.e. end of June 2027",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $10,800 = $64,800",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "10 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 2x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving employee compensation data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "36 hours for personal data under Exhibit D (which prevails); 48 hours for other Covered Data",
+    "sources": [
+     "10.2",
+     "Exhibit C.4",
+     "10.3",
+     "Exhibit D.1",
+     "18.2"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_06": {
+  "meta": {
+   "contract_id": "contract_06",
+   "type": "Lease",
+   "title": "Commercial Equipment Lease",
+   "style": "legalese",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": false,
+   "target_pages": 39,
+   "words": 23074,
+   "est_pages": 37,
+   "provider": "Fabrikam Systems Ltd",
+   "customer": "VanArsdel Foods Ltd",
+   "effective_date": "November 1, 2023",
+   "pdf_pages": 37
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "45 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "15% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 3%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "60 months from November 1, 2023, i.e. end of October 2028",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "3 months x $48,000 = $144,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "20 days (amended from 30)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 3 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving payment card data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "72 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_07": {
+  "meta": {
+   "contract_id": "contract_07",
+   "type": "Licence",
+   "title": "Software Licence Agreement",
+   "style": "legalese",
+   "complexity": "high",
+   "amendments": 3,
+   "has_exhibit_d": false,
+   "target_pages": 35,
+   "words": 20672,
+   "est_pages": 34,
+   "provider": "Woodgrove Advisory LLP",
+   "customer": "Bellows College",
+   "effective_date": "December 1, 2024",
+   "pdf_pages": 34
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "90 days (amended from 60)",
+    "sources": [
+     "15.3",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "40% of the monthly fee (amended from 10%)",
+    "sources": [
+     "5.3",
+     "Exhibit B.5",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "4% regardless of the index (amended)",
+    "sources": [
+     "7.4",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "12 months from December 1, 2024, i.e. end of November 2025",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $85,000 = $510,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "60 days (amended from 15)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 3 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 5x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving payment card data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_08": {
+  "meta": {
+   "contract_id": "contract_08",
+   "type": "MSA",
+   "title": "Master Services Agreement",
+   "style": "plain",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": false,
+   "target_pages": 46,
+   "words": 28147,
+   "est_pages": 45,
+   "provider": "Northwind Cloud Services, Inc.",
+   "customer": "Bellows College",
+   "effective_date": "April 1, 2023",
+   "pdf_pages": 45
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "30 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "10% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "2% regardless of the index (amended)",
+    "sources": [
+     "7.4",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "12 months from April 1, 2023, i.e. end of March 2024",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "3 months x $22,500 = $67,500",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "10 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 5x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving employee compensation data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "72 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_09": {
+  "meta": {
+   "contract_id": "contract_09",
+   "type": "Lease",
+   "title": "Commercial Equipment Lease",
+   "style": "plain",
+   "complexity": "high",
+   "amendments": 3,
+   "has_exhibit_d": false,
+   "target_pages": 14,
+   "words": 7093,
+   "est_pages": 13,
+   "provider": "Northwind Cloud Services, Inc.",
+   "customer": "VanArsdel Foods Ltd",
+   "effective_date": "October 1, 2025",
+   "pdf_pages": 13
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "120 days (amended from 30)",
+    "sources": [
+     "15.3",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "20% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 3%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "36 months from October 1, 2025, i.e. end of September 2028",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $27,000 = $162,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "10 days (amended from 30)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 5 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 2x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving trade secret formulations count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_10": {
+  "meta": {
+   "contract_id": "contract_10",
+   "type": "MSA",
+   "title": "Master Services Agreement",
+   "style": "british",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": true,
+   "target_pages": 36,
+   "words": 22192,
+   "est_pages": 36,
+   "provider": "Northwind Cloud Services, Inc.",
+   "customer": "Margie's Travel Ltd",
+   "effective_date": "1 October 2023",
+   "pdf_pages": 36
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "30 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "10% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 3%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "36 months from 1 October 2023, i.e. end of September 2026",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "12 months x \u00a325,000 = \u00a3300,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "10 days (amended from 15)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 2x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving employee compensation data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "36 hours for PHI under Exhibit D (which prevails); 48 hours for other Covered Data",
+    "sources": [
+     "10.2",
+     "Exhibit C.4",
+     "10.3",
+     "Exhibit D.1",
+     "18.2"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_11": {
+  "meta": {
+   "contract_id": "contract_11",
+   "type": "Supply",
+   "title": "Supply Agreement",
+   "style": "british",
+   "complexity": "high",
+   "amendments": 3,
+   "has_exhibit_d": false,
+   "target_pages": 13,
+   "words": 7243,
+   "est_pages": 14,
+   "provider": "Tailspin Data Partners plc",
+   "customer": "VanArsdel Foods Ltd",
+   "effective_date": "1 July 2023",
+   "pdf_pages": 14
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "90 days (amended from 30)",
+    "sources": [
+     "15.3",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "30% of the monthly fee (amended from 15%)",
+    "sources": [
+     "5.3",
+     "Exhibit B.5",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "4% regardless of the index (amended)",
+    "sources": [
+     "7.4",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "60 months from 1 July 2023, i.e. end of June 2028",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "12 months x \u00a3129,600 = \u00a31,555,200",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "20 days (amended from 15)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving employee compensation data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "72 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_12": {
+  "meta": {
+   "contract_id": "contract_12",
+   "type": "MSA",
+   "title": "Master Services Agreement",
+   "style": "plain",
+   "complexity": "low",
+   "amendments": 0,
+   "has_exhibit_d": false,
+   "target_pages": 44,
+   "words": 24213,
+   "est_pages": 39,
+   "provider": "Coho Manufacturing Group",
+   "customer": "Datum Financial Group, Inc.",
+   "effective_date": "June 1, 2023",
+   "pdf_pages": 39
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "30 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "10% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 5%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "24 months from June 1, 2023, i.e. end of May 2025",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "12 months x $48,000 = $576,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "10 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 5 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 2x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving biometric data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "72 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   }
+  ]
+ },
+ "contract_13": {
+  "meta": {
+   "contract_id": "contract_13",
+   "type": "DPA",
+   "title": "Data Processing Services Agreement",
+   "style": "british",
+   "complexity": "high",
+   "amendments": 3,
+   "has_exhibit_d": false,
+   "target_pages": 44,
+   "words": 27370,
+   "est_pages": 44,
+   "provider": "Proseware Technologies, Inc.",
+   "customer": "Munson's Pickles Inc.",
+   "effective_date": "1 May 2025",
+   "pdf_pages": 44
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "90 days (amended from 60)",
+    "sources": [
+     "15.3",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "15% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "2% regardless of the index (amended)",
+    "sources": [
+     "7.4",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "36 months from 1 May 2025, i.e. end of April 2028",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "3 months x \u00a346,656 = \u00a3139,968",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "60 days (amended from 15)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 3 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 5x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving trade secret formulations count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_14": {
+  "meta": {
+   "contract_id": "contract_14",
+   "type": "Licence",
+   "title": "Software Licence Agreement",
+   "style": "british",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": false,
+   "target_pages": 41,
+   "words": 25106,
+   "est_pages": 40,
+   "provider": "Lucerne Supply Co.",
+   "customer": "Graphic Design Institute",
+   "effective_date": "1 March 2023",
+   "pdf_pages": 40
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "30 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "10% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 5%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "24 months from 1 March 2023, i.e. end of February 2025",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "12 months x $12,960 = $155,520",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "30 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 3 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 2x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving employee compensation data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_15": {
+  "meta": {
+   "contract_id": "contract_15",
+   "type": "MSA",
+   "title": "Master Services Agreement",
+   "style": "plain",
+   "complexity": "high",
+   "amendments": 3,
+   "has_exhibit_d": true,
+   "target_pages": 47,
+   "words": 30281,
+   "est_pages": 48,
+   "provider": "Tailspin Data Partners plc",
+   "customer": "Margie's Travel Ltd",
+   "effective_date": "March 1, 2025",
+   "pdf_pages": 48
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "180 days (amended from 60)",
+    "sources": [
+     "15.3",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "30% of the monthly fee (amended from 20%)",
+    "sources": [
+     "5.3",
+     "Exhibit B.5",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 5%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "36 months from March 1, 2025, i.e. end of February 2028",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "12 months x $129,600 = $1,555,200",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "15 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 3 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 2x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving biometric data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "24 hours for PHI under Exhibit D (which prevails); 72 hours for other Covered Data",
+    "sources": [
+     "10.2",
+     "Exhibit C.4",
+     "10.3",
+     "Exhibit D.1",
+     "18.2"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_16": {
+  "meta": {
+   "contract_id": "contract_16",
+   "type": "Lease",
+   "title": "Commercial Equipment Lease",
+   "style": "plain",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": false,
+   "target_pages": 24,
+   "words": 13918,
+   "est_pages": 23,
+   "provider": "Coho Manufacturing Group",
+   "customer": "Margie's Travel Ltd",
+   "effective_date": "December 1, 2023",
+   "pdf_pages": 23
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "90 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "25% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 7%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "36 months from December 1, 2023, i.e. end of November 2026",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "12 months x $51,840 = $622,080",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "10 days (amended from 30)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 3 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving biometric data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_17": {
+  "meta": {
+   "contract_id": "contract_17",
+   "type": "Licence",
+   "title": "Software Licence Agreement",
+   "style": "british",
+   "complexity": "low",
+   "amendments": 0,
+   "has_exhibit_d": false,
+   "target_pages": 46,
+   "words": 27371,
+   "est_pages": 44,
+   "provider": "Coho Manufacturing Group",
+   "customer": "Munson's Pickles Inc.",
+   "effective_date": "1 November 2023",
+   "pdf_pages": 44
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "90 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "20% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 5%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "36 months from 1 November 2023, i.e. end of October 2026",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x \u00a312,000 = \u00a372,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "30 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving employee compensation data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   }
+  ]
+ },
+ "contract_18": {
+  "meta": {
+   "contract_id": "contract_18",
+   "type": "MSA",
+   "title": "Master Services Agreement",
+   "style": "british",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": true,
+   "target_pages": 43,
+   "words": 25913,
+   "est_pages": 41,
+   "provider": "Alpine Ski Holdings Ltd",
+   "customer": "Humongous Insurance Co.",
+   "effective_date": "1 July 2023",
+   "pdf_pages": 41
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "30 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "40% of the monthly fee (amended from 15%)",
+    "sources": [
+     "5.3",
+     "Exhibit B.5",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 7%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "36 months from 1 July 2023, i.e. end of June 2026",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "12 months x $85,000 = $1,020,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "45 days (amended from 15)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving employee compensation data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "24 hours for PHI under Exhibit D (which prevails); 72 hours for other Covered Data",
+    "sources": [
+     "10.2",
+     "Exhibit C.4",
+     "10.3",
+     "Exhibit D.1",
+     "18.2"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_19": {
+  "meta": {
+   "contract_id": "contract_19",
+   "type": "SaaS",
+   "title": "SaaS Subscription Agreement",
+   "style": "plain",
+   "complexity": "low",
+   "amendments": 0,
+   "has_exhibit_d": true,
+   "target_pages": 46,
+   "words": 27706,
+   "est_pages": 44,
+   "provider": "Blue Yonder Robotics, Inc.",
+   "customer": "Trey Research Corporation",
+   "effective_date": "December 1, 2023",
+   "pdf_pages": 44
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "45 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "25% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 3%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "36 months from December 1, 2023, i.e. end of November 2026",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "12 months x $120,000 = $1,440,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "30 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving payment card data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "24 hours for PHI under Exhibit D (which prevails); 72 hours for other Covered Data",
+    "sources": [
+     "10.2",
+     "Exhibit C.4",
+     "10.3",
+     "Exhibit D.1",
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_20": {
+  "meta": {
+   "contract_id": "contract_20",
+   "type": "Consulting",
+   "title": "Consulting Services Agreement",
+   "style": "plain",
+   "complexity": "high",
+   "amendments": 2,
+   "has_exhibit_d": false,
+   "target_pages": 36,
+   "words": 22605,
+   "est_pages": 37,
+   "provider": "Tailspin Data Partners plc",
+   "customer": "Trey Research Corporation",
+   "effective_date": "March 1, 2024",
+   "pdf_pages": 37
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "60 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "20% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "2% regardless of the index (amended)",
+    "sources": [
+     "7.4",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "60 months from March 1, 2024, i.e. end of February 2029",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $120,000 = $720,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "45 days (amended from 15)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 5x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving employee compensation data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "72 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_21": {
+  "meta": {
+   "contract_id": "contract_21",
+   "type": "DPA",
+   "title": "Data Processing Services Agreement",
+   "style": "legalese",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": false,
+   "target_pages": 36,
+   "words": 23451,
+   "est_pages": 38,
+   "provider": "Northwind Cloud Services, Inc.",
+   "customer": "Graphic Design Institute",
+   "effective_date": "February 1, 2023",
+   "pdf_pages": 38
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "60 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "50% of the monthly fee (amended from 10%)",
+    "sources": [
+     "5.3",
+     "Exhibit B.5",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 5%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "24 months from February 1, 2023, i.e. end of January 2025",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $129,600 = $777,600",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "10 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving biometric data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "72 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_22": {
+  "meta": {
+   "contract_id": "contract_22",
+   "type": "Supply",
+   "title": "Supply Agreement",
+   "style": "plain",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": false,
+   "target_pages": 43,
+   "words": 26490,
+   "est_pages": 42,
+   "provider": "Blue Yonder Robotics, Inc.",
+   "customer": "First Up Consultants LLC",
+   "effective_date": "April 1, 2025",
+   "pdf_pages": 42
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "60 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "10% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "4% regardless of the index (amended)",
+    "sources": [
+     "7.4",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "12 months from April 1, 2025, i.e. end of March 2026",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "12 months x $25,000 = $300,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "10 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 5x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving trade secret formulations count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_23": {
+  "meta": {
+   "contract_id": "contract_23",
+   "type": "Consulting",
+   "title": "Consulting Services Agreement",
+   "style": "plain",
+   "complexity": "low",
+   "amendments": 0,
+   "has_exhibit_d": false,
+   "target_pages": 47,
+   "words": 31790,
+   "est_pages": 50,
+   "provider": "Proseware Technologies, Inc.",
+   "customer": "Datum Financial Group, Inc.",
+   "effective_date": "January 1, 2025",
+   "pdf_pages": 50
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "30 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "25% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 5%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "36 months from January 1, 2025, i.e. end of December 2027",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "3 months x $48,000 = $144,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "15 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 5x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving employee compensation data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "72 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   }
+  ]
+ },
+ "contract_24": {
+  "meta": {
+   "contract_id": "contract_24",
+   "type": "Consulting",
+   "title": "Consulting Services Agreement",
+   "style": "plain",
+   "complexity": "high",
+   "amendments": 3,
+   "has_exhibit_d": false,
+   "target_pages": 34,
+   "words": 22097,
+   "est_pages": 36,
+   "provider": "Tailspin Data Partners plc",
+   "customer": "Munson's Pickles Inc.",
+   "effective_date": "June 1, 2024",
+   "pdf_pages": 36
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "120 days (amended from 60)",
+    "sources": [
+     "15.3",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "30% of the monthly fee (amended from 20%)",
+    "sources": [
+     "5.3",
+     "Exhibit B.5",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "3% regardless of the index (amended)",
+    "sources": [
+     "7.4",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "48 months from June 1, 2024, i.e. end of May 2028",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $243,648 = $1,461,888",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "60 days (amended from 15)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 5 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving payment card data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_25": {
+  "meta": {
+   "contract_id": "contract_25",
+   "type": "SaaS",
+   "title": "SaaS Subscription Agreement",
+   "style": "plain",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": true,
+   "target_pages": 31,
+   "words": 19400,
+   "est_pages": 32,
+   "provider": "Fabrikam Systems Ltd",
+   "customer": "Relecloud Retail Inc.",
+   "effective_date": "December 1, 2023",
+   "pdf_pages": 32
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "45 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "20% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "3% regardless of the index (amended)",
+    "sources": [
+     "7.4",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "36 months from December 1, 2023, i.e. end of November 2026",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $76,500 = $459,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "10 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 5 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving biometric data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "24 hours for PHI under Exhibit D (which prevails); 72 hours for other Covered Data",
+    "sources": [
+     "10.2",
+     "Exhibit C.4",
+     "10.3",
+     "Exhibit D.1",
+     "18.2"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_26": {
+  "meta": {
+   "contract_id": "contract_26",
+   "type": "DPA",
+   "title": "Data Processing Services Agreement",
+   "style": "plain",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": true,
+   "target_pages": 44,
+   "words": 27301,
+   "est_pages": 44,
+   "provider": "Blue Yonder Robotics, Inc.",
+   "customer": "Contoso Health Systems, LLC",
+   "effective_date": "February 1, 2025",
+   "pdf_pages": 44
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "45 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "40% of the monthly fee (amended from 15%)",
+    "sources": [
+     "5.3",
+     "Exhibit B.5",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 3%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "36 months from February 1, 2025, i.e. end of January 2028",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $25,000 = $150,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "60 days (amended from 15)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 3 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 2x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving biometric data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "24 hours for personal data under Exhibit D (which prevails); 72 hours for other Covered Data",
+    "sources": [
+     "10.2",
+     "Exhibit C.4",
+     "10.3",
+     "Exhibit D.1",
+     "18.2"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_27": {
+  "meta": {
+   "contract_id": "contract_27",
+   "type": "Supply",
+   "title": "Supply Agreement",
+   "style": "british",
+   "complexity": "high",
+   "amendments": 3,
+   "has_exhibit_d": false,
+   "target_pages": 26,
+   "words": 15330,
+   "est_pages": 26,
+   "provider": "Northwind Cloud Services, Inc.",
+   "customer": "Margie's Travel Ltd",
+   "effective_date": "1 December 2025",
+   "pdf_pages": 26
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "180 days (amended from 90)",
+    "sources": [
+     "15.3",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "40% of the monthly fee (amended from 25%)",
+    "sources": [
+     "5.3",
+     "Exhibit B.5",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 3%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "24 months from 1 December 2025, i.e. end of November 2027",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "3 months x $48,729 = $146,187",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "30 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 5x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving payment card data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_28": {
+  "meta": {
+   "contract_id": "contract_28",
+   "type": "SaaS",
+   "title": "SaaS Subscription Agreement",
+   "style": "british",
+   "complexity": "low",
+   "amendments": 0,
+   "has_exhibit_d": true,
+   "target_pages": 29,
+   "words": 17042,
+   "est_pages": 28,
+   "provider": "Coho Manufacturing Group",
+   "customer": "Munson's Pickles Inc.",
+   "effective_date": "1 September 2023",
+   "pdf_pages": 28
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "45 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "25% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 7%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "36 months from 1 September 2023, i.e. end of August 2026",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "3 months x \u00a325,000 = \u00a375,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "10 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 5x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving trade secret formulations count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "24 hours for PHI under Exhibit D (which prevails); 48 hours for other Covered Data",
+    "sources": [
+     "10.2",
+     "Exhibit C.4",
+     "10.3",
+     "Exhibit D.1",
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_29": {
+  "meta": {
+   "contract_id": "contract_29",
+   "type": "SaaS",
+   "title": "SaaS Subscription Agreement",
+   "style": "plain",
+   "complexity": "high",
+   "amendments": 3,
+   "has_exhibit_d": true,
+   "target_pages": 21,
+   "words": 10561,
+   "est_pages": 19,
+   "provider": "Lucerne Supply Co.",
+   "customer": "Relecloud Retail Inc.",
+   "effective_date": "March 1, 2023",
+   "pdf_pages": 19
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "60 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "35% of the monthly fee (amended from 10%)",
+    "sources": [
+     "5.3",
+     "Exhibit B.5",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 7%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "60 months from March 1, 2023, i.e. end of February 2028",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "3 months x $279,936 = $839,808",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "45 days (amended from 30)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 5 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 5x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving payment card data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "24 hours for PHI under Exhibit D (which prevails); 72 hours for other Covered Data",
+    "sources": [
+     "10.2",
+     "Exhibit C.4",
+     "10.3",
+     "Exhibit D.1",
+     "18.2"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_30": {
+  "meta": {
+   "contract_id": "contract_30",
+   "type": "Consulting",
+   "title": "Consulting Services Agreement",
+   "style": "british",
+   "complexity": "high",
+   "amendments": 3,
+   "has_exhibit_d": false,
+   "target_pages": 47,
+   "words": 29835,
+   "est_pages": 47,
+   "provider": "Tailspin Data Partners plc",
+   "customer": "Munson's Pickles Inc.",
+   "effective_date": "1 March 2023",
+   "pdf_pages": 47
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "90 days (amended from 30)",
+    "sources": [
+     "15.3",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "35% of the monthly fee (amended from 10%)",
+    "sources": [
+     "5.3",
+     "Exhibit B.5",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "2% regardless of the index (amended)",
+    "sources": [
+     "7.4",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "12 months from 1 March 2023, i.e. end of February 2024",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x \u00a3240,000 = \u00a31,440,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "15 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving payment card data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_31": {
+  "meta": {
+   "contract_id": "contract_31",
+   "type": "DPA",
+   "title": "Data Processing Services Agreement",
+   "style": "plain",
+   "complexity": "low",
+   "amendments": 0,
+   "has_exhibit_d": true,
+   "target_pages": 48,
+   "words": 31864,
+   "est_pages": 50,
+   "provider": "Northwind Cloud Services, Inc.",
+   "customer": "First Up Consultants LLC",
+   "effective_date": "July 1, 2025",
+   "pdf_pages": 50
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "45 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "20% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 3%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "24 months from July 1, 2025, i.e. end of June 2027",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "3 months x $240,000 = $720,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "15 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 3 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 2x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving biometric data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "36 hours for personal data under Exhibit D (which prevails); 72 hours for other Covered Data",
+    "sources": [
+     "10.2",
+     "Exhibit C.4",
+     "10.3",
+     "Exhibit D.1",
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_32": {
+  "meta": {
+   "contract_id": "contract_32",
+   "type": "SaaS",
+   "title": "SaaS Subscription Agreement",
+   "style": "legalese",
+   "complexity": "high",
+   "amendments": 2,
+   "has_exhibit_d": false,
+   "target_pages": 17,
+   "words": 7932,
+   "est_pages": 15,
+   "provider": "Alpine Ski Holdings Ltd",
+   "customer": "Munson's Pickles Inc.",
+   "effective_date": "March 1, 2024",
+   "pdf_pages": 15
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "90 days (amended from 45)",
+    "sources": [
+     "15.3",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "25% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 7%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "24 months from March 1, 2024, i.e. end of February 2026",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $106,032 = $636,192",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "20 days (amended from 15)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 5 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving employee compensation data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "72 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_33": {
+  "meta": {
+   "contract_id": "contract_33",
+   "type": "Licence",
+   "title": "Software Licence Agreement",
+   "style": "legalese",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": false,
+   "target_pages": 26,
+   "words": 15915,
+   "est_pages": 27,
+   "provider": "Woodgrove Advisory LLP",
+   "customer": "VanArsdel Foods Ltd",
+   "effective_date": "August 1, 2023",
+   "pdf_pages": 27
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "90 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "10% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 7%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "12 months from August 1, 2023, i.e. end of July 2024",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $25,000 = $150,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "60 days (amended from 30)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 3 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 2x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving trade secret formulations count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_34": {
+  "meta": {
+   "contract_id": "contract_34",
+   "type": "Consulting",
+   "title": "Consulting Services Agreement",
+   "style": "british",
+   "complexity": "high",
+   "amendments": 2,
+   "has_exhibit_d": false,
+   "target_pages": 33,
+   "words": 20630,
+   "est_pages": 33,
+   "provider": "Fabrikam Systems Ltd",
+   "customer": "VanArsdel Foods Ltd",
+   "effective_date": "1 January 2025",
+   "pdf_pages": 33
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "30 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "50% of the monthly fee (amended from 25%)",
+    "sources": [
+     "5.3",
+     "Exhibit B.5",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "2% regardless of the index (amended)",
+    "sources": [
+     "7.4",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "24 months from 1 January 2025, i.e. end of December 2026",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "12 months x $129,600 = $1,555,200",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "45 days (amended from 15)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving biometric data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "72 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_35": {
+  "meta": {
+   "contract_id": "contract_35",
+   "type": "Supply",
+   "title": "Supply Agreement",
+   "style": "british",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": false,
+   "target_pages": 17,
+   "words": 7982,
+   "est_pages": 15,
+   "provider": "Wingtip Software GmbH",
+   "customer": "Relecloud Retail Inc.",
+   "effective_date": "1 February 2025",
+   "pdf_pages": 15
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "90 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "15% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 3%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "24 months from 1 February 2025, i.e. end of January 2027",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "3 months x $43,200 = $129,600",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "10 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 3 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 2x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving payment card data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "72 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_36": {
+  "meta": {
+   "contract_id": "contract_36",
+   "type": "Supply",
+   "title": "Supply Agreement",
+   "style": "british",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": false,
+   "target_pages": 20,
+   "words": 10620,
+   "est_pages": 19,
+   "provider": "Coho Manufacturing Group",
+   "customer": "VanArsdel Foods Ltd",
+   "effective_date": "1 December 2025",
+   "pdf_pages": 19
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "60 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "10% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 7%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "24 months from 1 December 2025, i.e. end of November 2027",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $76,500 = $459,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "10 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 5x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving payment card data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "72 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_37": {
+  "meta": {
+   "contract_id": "contract_37",
+   "type": "Lease",
+   "title": "Commercial Equipment Lease",
+   "style": "legalese",
+   "complexity": "low",
+   "amendments": 0,
+   "has_exhibit_d": false,
+   "target_pages": 33,
+   "words": 19856,
+   "est_pages": 32,
+   "provider": "Fabrikam Systems Ltd",
+   "customer": "Trey Research Corporation",
+   "effective_date": "August 1, 2023",
+   "pdf_pages": 32
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "60 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "20% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 3%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "24 months from August 1, 2023, i.e. end of July 2025",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $85,000 = $510,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "10 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 5x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving biometric data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   }
+  ]
+ },
+ "contract_38": {
+  "meta": {
+   "contract_id": "contract_38",
+   "type": "DPA",
+   "title": "Data Processing Services Agreement",
+   "style": "plain",
+   "complexity": "high",
+   "amendments": 2,
+   "has_exhibit_d": false,
+   "target_pages": 15,
+   "words": 6497,
+   "est_pages": 13,
+   "provider": "Lucerne Supply Co.",
+   "customer": "VanArsdel Foods Ltd",
+   "effective_date": "January 1, 2024",
+   "pdf_pages": 13
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "45 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "50% of the monthly fee (amended from 20%)",
+    "sources": [
+     "5.3",
+     "Exhibit B.5",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 3%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "24 months from January 1, 2024, i.e. end of December 2025",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "12 months x $40,608 = $487,296",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "60 days (amended from 15)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 5 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving trade secret formulations count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_39": {
+  "meta": {
+   "contract_id": "contract_39",
+   "type": "DPA",
+   "title": "Data Processing Services Agreement",
+   "style": "british",
+   "complexity": "low",
+   "amendments": 0,
+   "has_exhibit_d": true,
+   "target_pages": 23,
+   "words": 13109,
+   "est_pages": 23,
+   "provider": "Alpine Ski Holdings Ltd",
+   "customer": "Margie's Travel Ltd",
+   "effective_date": "1 March 2024",
+   "pdf_pages": 23
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "60 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "25% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 3%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "12 months from 1 March 2024, i.e. end of February 2025",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "3 months x $48,000 = $144,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "30 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 5 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 5x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving payment card data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "24 hours for personal data under Exhibit D (which prevails); 72 hours for other Covered Data",
+    "sources": [
+     "10.2",
+     "Exhibit C.4",
+     "10.3",
+     "Exhibit D.1",
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_40": {
+  "meta": {
+   "contract_id": "contract_40",
+   "type": "DPA",
+   "title": "Data Processing Services Agreement",
+   "style": "legalese",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": true,
+   "target_pages": 34,
+   "words": 19371,
+   "est_pages": 32,
+   "provider": "Northwind Cloud Services, Inc.",
+   "customer": "Graphic Design Institute",
+   "effective_date": "September 1, 2023",
+   "pdf_pages": 32
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "90 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "15% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 7%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "36 months from September 1, 2023, i.e. end of August 2026",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "12 months x $108,000 = $1,296,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "20 days (amended from 15)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 5 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving payment card data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "24 hours for personal data under Exhibit D (which prevails); 72 hours for other Covered Data",
+    "sources": [
+     "10.2",
+     "Exhibit C.4",
+     "10.3",
+     "Exhibit D.1",
+     "18.2"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_41": {
+  "meta": {
+   "contract_id": "contract_41",
+   "type": "MSA",
+   "title": "Master Services Agreement",
+   "style": "british",
+   "complexity": "low",
+   "amendments": 0,
+   "has_exhibit_d": true,
+   "target_pages": 12,
+   "words": 5180,
+   "est_pages": 11,
+   "provider": "Coho Manufacturing Group",
+   "customer": "VanArsdel Foods Ltd",
+   "effective_date": "1 November 2023",
+   "pdf_pages": 11
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "45 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "10% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 7%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "12 months from 1 November 2023, i.e. end of October 2024",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "12 months x \u00a312,000 = \u00a3144,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "30 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 3 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving biometric data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "24 hours for PHI under Exhibit D (which prevails); 72 hours for other Covered Data",
+    "sources": [
+     "10.2",
+     "Exhibit C.4",
+     "10.3",
+     "Exhibit D.1",
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_42": {
+  "meta": {
+   "contract_id": "contract_42",
+   "type": "Lease",
+   "title": "Commercial Equipment Lease",
+   "style": "british",
+   "complexity": "high",
+   "amendments": 2,
+   "has_exhibit_d": false,
+   "target_pages": 40,
+   "words": 28307,
+   "est_pages": 44,
+   "provider": "Lucerne Supply Co.",
+   "customer": "Relecloud Retail Inc.",
+   "effective_date": "1 January 2024",
+   "pdf_pages": 44
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "180 days (amended from 30)",
+    "sources": [
+     "15.3",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "15% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 7%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "60 months from 1 January 2024, i.e. end of December 2028",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "3 months x $11,280 = $33,840",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "10 days (amended from 30)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 5x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving employee compensation data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_43": {
+  "meta": {
+   "contract_id": "contract_43",
+   "type": "Supply",
+   "title": "Supply Agreement",
+   "style": "british",
+   "complexity": "high",
+   "amendments": 3,
+   "has_exhibit_d": false,
+   "target_pages": 44,
+   "words": 26213,
+   "est_pages": 42,
+   "provider": "Tailspin Data Partners plc",
+   "customer": "Humongous Insurance Co.",
+   "effective_date": "1 April 2025",
+   "pdf_pages": 42
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "120 days (amended from 60)",
+    "sources": [
+     "15.3",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "30% of the monthly fee (amended from 10%)",
+    "sources": [
+     "5.3",
+     "Exhibit B.5",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "2% regardless of the index (amended)",
+    "sources": [
+     "7.4",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "48 months from 1 April 2025, i.e. end of March 2029",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "3 months x \u00a376,500 = \u00a3229,500",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "20 days (amended from 10)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 5 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 5x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving employee compensation data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_44": {
+  "meta": {
+   "contract_id": "contract_44",
+   "type": "Licence",
+   "title": "Software Licence Agreement",
+   "style": "legalese",
+   "complexity": "high",
+   "amendments": 3,
+   "has_exhibit_d": false,
+   "target_pages": 15,
+   "words": 7547,
+   "est_pages": 14,
+   "provider": "Wingtip Software GmbH",
+   "customer": "Bellows College",
+   "effective_date": "February 1, 2025",
+   "pdf_pages": 14
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "45 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "50% of the monthly fee (amended from 10%)",
+    "sources": [
+     "5.3",
+     "Exhibit B.5",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "3% regardless of the index (amended)",
+    "sources": [
+     "7.4",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "36 months from February 1, 2025, i.e. end of January 2028",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $203,040 = $1,218,240",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "20 days (amended from 10)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 5 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 2x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving employee compensation data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_45": {
+  "meta": {
+   "contract_id": "contract_45",
+   "type": "MSA",
+   "title": "Master Services Agreement",
+   "style": "legalese",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": false,
+   "target_pages": 17,
+   "words": 8388,
+   "est_pages": 15,
+   "provider": "Fabrikam Systems Ltd",
+   "customer": "Bellows College",
+   "effective_date": "February 1, 2025",
+   "pdf_pages": 15
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "45 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "20% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 5%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "36 months from February 1, 2025, i.e. end of January 2028",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $51,840 = $311,040",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "15 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 3 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 2x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving employee compensation data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_46": {
+  "meta": {
+   "contract_id": "contract_46",
+   "type": "Supply",
+   "title": "Supply Agreement",
+   "style": "legalese",
+   "complexity": "high",
+   "amendments": 3,
+   "has_exhibit_d": false,
+   "target_pages": 43,
+   "words": 25622,
+   "est_pages": 41,
+   "provider": "Woodgrove Advisory LLP",
+   "customer": "Graphic Design Institute",
+   "effective_date": "August 1, 2025",
+   "pdf_pages": 41
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "90 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "25% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "3% regardless of the index (amended)",
+    "sources": [
+     "7.4",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "48 months from August 1, 2025, i.e. end of July 2029",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $45,120 = $270,720",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "60 days (amended from 30)",
+    "sources": [
+     "15.4(a)",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 2x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving payment card data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "72 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_47": {
+  "meta": {
+   "contract_id": "contract_47",
+   "type": "SaaS",
+   "title": "SaaS Subscription Agreement",
+   "style": "british",
+   "complexity": "high",
+   "amendments": 2,
+   "has_exhibit_d": true,
+   "target_pages": 50,
+   "words": 25021,
+   "est_pages": 40,
+   "provider": "Northwind Cloud Services, Inc.",
+   "customer": "Contoso Health Systems, LLC",
+   "effective_date": "1 May 2023",
+   "pdf_pages": 40
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "180 days (amended from 90)",
+    "sources": [
+     "15.3",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "15% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "2% regardless of the index (amended)",
+    "sources": [
+     "7.4",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "60 months from 1 May 2023, i.e. end of April 2028",
+    "sources": [
+     "15.1",
+     "Preamble",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x \u00a348,000 = \u00a3288,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "10 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 2x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving biometric data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "24 hours for PHI under Exhibit D (which prevails); 72 hours for other Covered Data",
+    "sources": [
+     "10.2",
+     "Exhibit C.4",
+     "10.3",
+     "Exhibit D.1",
+     "18.2"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_48": {
+  "meta": {
+   "contract_id": "contract_48",
+   "type": "DPA",
+   "title": "Data Processing Services Agreement",
+   "style": "plain",
+   "complexity": "low",
+   "amendments": 0,
+   "has_exhibit_d": false,
+   "target_pages": 43,
+   "words": 28341,
+   "est_pages": 45,
+   "provider": "Adventure Works Logistics Corp.",
+   "customer": "Contoso Health Systems, LLC",
+   "effective_date": "April 1, 2023",
+   "pdf_pages": 45
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "30 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "20% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 7%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "12 months from April 1, 2023, i.e. end of March 2024",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "3 months x $25,000 = $75,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "30 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 3 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 2x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving biometric data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   }
+  ]
+ },
+ "contract_49": {
+  "meta": {
+   "contract_id": "contract_49",
+   "type": "Consulting",
+   "title": "Consulting Services Agreement",
+   "style": "plain",
+   "complexity": "medium",
+   "amendments": 1,
+   "has_exhibit_d": false,
+   "target_pages": 48,
+   "words": 30698,
+   "est_pages": 48,
+   "provider": "Coho Manufacturing Group",
+   "customer": "Trey Research Corporation",
+   "effective_date": "February 1, 2023",
+   "pdf_pages": 48
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "30 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "15% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "3% regardless of the index (amended)",
+    "sources": [
+     "7.4",
+     "Amendment"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "24 months from February 1, 2023, i.e. end of January 2025",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x $25,000 = $150,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "30 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (2 consecutive months or 4 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (24 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving biometric data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   },
+   {
+    "question": "Which document controls if an Amendment conflicts with the main body?",
+    "expected": "The Amendment (Section 18.2)",
+    "sources": [
+     "18.2"
+    ]
+   }
+  ]
+ },
+ "contract_50": {
+  "meta": {
+   "contract_id": "contract_50",
+   "type": "SaaS",
+   "title": "SaaS Subscription Agreement",
+   "style": "british",
+   "complexity": "low",
+   "amendments": 0,
+   "has_exhibit_d": false,
+   "target_pages": 49,
+   "words": 30917,
+   "est_pages": 49,
+   "provider": "Alpine Ski Holdings Ltd",
+   "customer": "Munson's Pickles Inc.",
+   "effective_date": "1 September 2025",
+   "pdf_pages": 49
+  },
+  "questions": [
+   {
+    "question": "How much notice is needed to terminate for convenience?",
+    "expected": "45 days",
+    "sources": [
+     "15.3"
+    ]
+   },
+   {
+    "question": "What is the maximum monthly service credit?",
+    "expected": "10% of the monthly fee",
+    "sources": [
+     "5.3",
+     "Exhibit B.5"
+    ]
+   },
+   {
+    "question": "What is the maximum annual fee increase?",
+    "expected": "the lesser of CPI change and 7%",
+    "sources": [
+     "7.4"
+    ]
+   },
+   {
+    "question": "When does the Initial Term end?",
+    "expected": "12 months from 1 September 2025, i.e. end of August 2026",
+    "sources": [
+     "15.1",
+     "Preamble"
+    ]
+   },
+   {
+    "question": "What would the termination for convenience fee be (assuming more than the fee period remains in the Initial Term)?",
+    "expected": "6 months x \u00a3120,000 = \u00a3720,000",
+    "sources": [
+     "1.7",
+     "Exhibit A.6",
+     "Exhibit A.1"
+    ]
+   },
+   {
+    "question": "How long is the cure period before the customer can terminate for material breach?",
+    "expected": "30 days",
+    "sources": [
+     "15.4(a)"
+    ]
+   },
+   {
+    "question": "Can the customer terminate without a fee if uptime targets are repeatedly missed?",
+    "expected": "Yes - Chronic SLA Failure (3 consecutive months or 5 months in a rolling 12) allows termination under 15.4(c) with no fee",
+    "sources": [
+     "5.2",
+     "15.4(c)",
+     "Exhibit B.6"
+    ]
+   },
+   {
+    "question": "Is liability for a breach of Covered Data limited to the standard liability cap?",
+    "expected": "No - it is subject to the Special Damages Cap, 3x the Liability Cap (12 months of fees)",
+    "sources": [
+     "13.2",
+     "13.3(c)",
+     "1.6"
+    ]
+   },
+   {
+    "question": "Does a breach involving payment card data count as a breach of Covered Data?",
+    "expected": "Yes - it is Restricted data under Exhibit C.2, which is included in Covered Data",
+    "sources": [
+     "1.2",
+     "Exhibit C.2"
+    ]
+   },
+   {
+    "question": "How quickly must a security breach be reported?",
+    "expected": "48 hours",
+    "sources": [
+     "10.2",
+     "Exhibit C.4"
+    ]
+   }
+  ]
+ }
+}

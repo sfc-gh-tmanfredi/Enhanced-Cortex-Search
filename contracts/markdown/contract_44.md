@@ -1,0 +1,275 @@
+# SOFTWARE LICENCE AGREEMENT
+
+This Software Licence Agreement (the "Agreement") is entered into as of February 1, 2025 (the "Effective Date") by and between Wingtip Software GmbH ("Licensor") and Bellows College ("Licensee") (each a "Party" and collectively the "Parties").
+
+**RECITALS**
+
+WHEREAS, Licensor is in the business of providing the services described herein; and
+
+WHEREAS, Licensee wishes to obtain such services on the terms set forth below;
+
+NOW, THEREFORE, in consideration of the mutual covenants herein, the Parties agree as follows:
+
+
+## Section 1. Definitions
+
+**1.1** "Business Day" means any day other than a Saturday, Sunday or public holiday in the place of performance.
+
+**1.2** "Covered Data" means Personal Data, and any Licensee Data designated as Restricted under Exhibit C. For clarity, Covered Data excludes De-identified Data.
+
+**1.3** "Critical Incident" means a Severity 1 incident as described in Exhibit B, paragraph B.2.
+
+**1.4** "Fees" means the amounts set out in Exhibit A, as adjusted under Section 7.4.
+
+**1.5** "Liability Cap" means the amount determined under Section 13.2.
+
+**1.6** "Special Damages Cap" means two (2) times the Liability Cap.
+
+**1.7** "Termination for Convenience Fee" means the fee described in Exhibit A, paragraph A.6.
+
+
+## Section 2. Quality Management
+
+**2.1** Licensor shall ensure that all activities relating to operational reporting comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 5 Business Days. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning personnel qualifications, whereupon Licensor shall evaluate each such request and respond within 15 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning equipment usage, whereupon Licensor shall evaluate each such request and respond within 20 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels.
+
+**2.2** Nothing in this Section shall be construed as limiting the obligations of either Party with respect to site access under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity. Each Party shall designate a representative responsible for knowledge transfer. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof. Each Party shall designate a representative responsible for documentation standards. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof.
+
+**2.3** Nothing in this Section shall be construed as limiting the obligations of either Party with respect to environmental compliance under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity. With respect to invoicing administration, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing invoicing administration, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter.
+
+
+## Section 3. Anti-Corruption
+
+**3.1** Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning quality assurance, whereupon Licensor shall evaluate each such request and respond within 20 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Nothing in this Section shall be construed as limiting the obligations of either Party with respect to quality assurance under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity. Nothing in this Section shall be construed as limiting the obligations of either Party with respect to equipment usage under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning environmental compliance, whereupon Licensor shall evaluate each such request and respond within 15 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels.
+
+**3.2** Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning equipment usage, whereupon Licensor shall evaluate each such request and respond within 20 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Licensor shall ensure that all activities relating to subcontractor oversight comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 20 Business Days.
+
+**3.3** Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning quality assurance, whereupon Licensor shall evaluate each such request and respond within 5 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. With respect to knowledge transfer, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing knowledge transfer, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter.
+
+
+## Section 4. Capacity
+
+**4.1** Each Party shall designate a representative responsible for documentation standards. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof. Nothing in this Section shall be construed as limiting the obligations of either Party with respect to knowledge transfer under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity. Each Party shall designate a representative responsible for site access. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof.
+
+**4.2** Licensor shall ensure that all activities relating to training comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 10 Business Days. Licensor shall ensure that all activities relating to site access comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 15 Business Days.
+
+
+## Section 5. Service Levels
+
+**5.1** Licensor shall meet the Service Levels set out in Exhibit B.
+
+**5.2** Licensor's sole liability for failing to meet a Service Level shall be the issue of Service Credits, except as provided in Section 15.4(c).
+
+**5.3** Service Credits in any month shall not exceed the cap stated in Exhibit B, paragraph B.5.
+
+
+## Section 6. Accessibility
+
+**6.1** With respect to personnel qualifications, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing personnel qualifications, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter. Licensor shall ensure that all activities relating to documentation standards comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 15 Business Days.
+
+**6.2** Licensor shall ensure that all activities relating to subcontractor oversight comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 15 Business Days. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning records retention, whereupon Licensor shall evaluate each such request and respond within 20 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning subcontractor oversight, whereupon Licensor shall evaluate each such request and respond within 10 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Each Party shall designate a representative responsible for site access. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof.
+
+**6.3** Nothing in this Section shall be construed as limiting the obligations of either Party with respect to records retention under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity. Each Party shall designate a representative responsible for site access. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof. Licensor shall ensure that all activities relating to knowledge transfer comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 20 Business Days. Each Party shall designate a representative responsible for site access. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof.
+
+**6.4** Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning subcontractor oversight, whereupon Licensor shall evaluate each such request and respond within 10 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. With respect to documentation standards, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing documentation standards, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning escalation procedures, whereupon Licensor shall evaluate each such request and respond within 10 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels.
+
+
+## Section 7. Fees and Payment
+
+**7.1** Licensee shall pay the Fees set out in Exhibit A.
+
+**7.2** Invoices are payable within forty-five (45) days of receipt.
+
+**7.3** Licensee may withhold amounts disputed in good faith by giving written notice describing the dispute.
+
+**7.4** From the first anniversary of the Effective Date, Licensor may increase the Fees once in each year by no more than the lesser of (a) the change in the consumer price index for the prior twelve months and (b) 7%. This Section 7.4 is subject to any Amendment.
+
+
+## Section 8. Business Continuity
+
+**8.1** Nothing in this Section shall be construed as limiting the obligations of either Party with respect to audit cooperation under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning records retention, whereupon Licensor shall evaluate each such request and respond within 20 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Licensor shall ensure that all activities relating to personnel qualifications comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 15 Business Days.
+
+**8.2** Licensor shall ensure that all activities relating to environmental compliance comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 10 Business Days. With respect to invoicing administration, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing invoicing administration, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter. Licensor shall ensure that all activities relating to site access comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 5 Business Days.
+
+**8.3** Nothing in this Section shall be construed as limiting the obligations of either Party with respect to environmental compliance under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity. Each Party shall designate a representative responsible for background screening. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning records retention, whereupon Licensor shall evaluate each such request and respond within 5 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Licensor shall ensure that all activities relating to capacity planning comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 5 Business Days.
+
+**8.4** Each Party shall designate a representative responsible for site access. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof. Licensor shall ensure that all activities relating to environmental compliance comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 10 Business Days. Nothing in this Section shall be construed as limiting the obligations of either Party with respect to records retention under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity. Licensor shall ensure that all activities relating to quality assurance comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 5 Business Days.
+
+**8.5** Nothing in this Section shall be construed as limiting the obligations of either Party with respect to change control under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity. Each Party shall designate a representative responsible for capacity planning. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof. With respect to subcontractor oversight, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing subcontractor oversight, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter. With respect to escalation procedures, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing escalation procedures, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter.
+
+
+## Section 9. Audit
+
+**9.1** Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning operational reporting, whereupon Licensor shall evaluate each such request and respond within 15 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Nothing in this Section shall be construed as limiting the obligations of either Party with respect to equipment usage under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity.
+
+**9.2** Licensor shall ensure that all activities relating to personnel qualifications comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 20 Business Days. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning escalation procedures, whereupon Licensor shall evaluate each such request and respond within 15 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Nothing in this Section shall be construed as limiting the obligations of either Party with respect to background screening under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity.
+
+**9.3** Nothing in this Section shall be construed as limiting the obligations of either Party with respect to quality assurance under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity. Nothing in this Section shall be construed as limiting the obligations of either Party with respect to background screening under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity.
+
+
+## Section 10. Data Protection and Security
+
+**10.1** Licensor shall implement the security controls described in Exhibit C.
+
+**10.2** Licensor shall notify Licensee of any Security Breach involving Covered Data without undue delay and in any event within the period stated in Exhibit C, paragraph C.4.
+
+
+## Section 11. Subcontracting
+
+**11.1** Licensor shall ensure that all activities relating to site access comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 15 Business Days. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning documentation standards, whereupon Licensor shall evaluate each such request and respond within 5 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Licensor shall ensure that all activities relating to background screening comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 10 Business Days.
+
+**11.2** Licensor shall ensure that all activities relating to audit cooperation comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 10 Business Days. Licensor shall ensure that all activities relating to records retention comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 10 Business Days. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning background screening, whereupon Licensor shall evaluate each such request and respond within 15 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels.
+
+**11.3** With respect to escalation procedures, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing escalation procedures, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter. Licensor shall ensure that all activities relating to change control comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 10 Business Days.
+
+
+## Section 12. Reporting
+
+**12.1** Licensor shall ensure that all activities relating to audit cooperation comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 10 Business Days. With respect to records retention, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing records retention, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter.
+
+**12.2** Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning capacity planning, whereupon Licensor shall evaluate each such request and respond within 10 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Nothing in this Section shall be construed as limiting the obligations of either Party with respect to invoicing administration under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity. Each Party shall designate a representative responsible for environmental compliance. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof.
+
+
+## Section 13. Limitation of Liability
+
+**13.1** Except as provided in Section 13.3, neither Party shall be liable for indirect, incidental, consequential or punitive damages.
+
+**13.2** Each Party's total liability under this Agreement shall not exceed the Fees paid or payable in the twenty-four (24) months before the event giving rise to the claim (the "Liability Cap").
+
+**13.3** Sections 13.1 and 13.2 do not apply to (a) indemnification obligations, (b) gross negligence or wilful misconduct, or (c) breaches of Section 10 involving Covered Data, which are instead subject to the Special Damages Cap.
+
+
+## Section 14. Export Control
+
+**14.1** Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning audit cooperation, whereupon Licensor shall evaluate each such request and respond within 5 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Nothing in this Section shall be construed as limiting the obligations of either Party with respect to business continuity under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity.
+
+**14.2** Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning quality assurance, whereupon Licensor shall evaluate each such request and respond within 20 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Nothing in this Section shall be construed as limiting the obligations of either Party with respect to personnel qualifications under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity. Each Party shall designate a representative responsible for subcontractor oversight. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof.
+
+**14.3** With respect to governance meetings, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing governance meetings, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning audit cooperation, whereupon Licensor shall evaluate each such request and respond within 15 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Licensor shall ensure that all activities relating to governance meetings comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 20 Business Days.
+
+**14.4** Nothing in this Section shall be construed as limiting the obligations of either Party with respect to audit cooperation under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity. Each Party shall designate a representative responsible for change control. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof.
+
+
+## Section 15. Term and Termination
+
+**15.1** This Agreement begins on the Effective Date and continues for twelve (12) months (the "Initial Term").
+
+**15.2** It then renews automatically for successive twelve-month periods unless either Party gives notice of non-renewal at least thirty (30) days before the end of the current term.
+
+**15.3** Licensee may terminate this Agreement for convenience on forty-five (45) days' written notice, subject to payment of the Termination for Convenience Fee.
+
+**15.4** Licensee may terminate immediately by written notice, without paying any Termination for Convenience Fee, if:
+  (a) Licensor materially breaches this Agreement and fails to cure within ten (10) days of notice;
+  (b) a Security Breach involving Covered Data occurs; or
+  (c) a Chronic SLA Failure occurs, as defined in Exhibit B, paragraph B.6.
+
+
+## Section 16. Transition Services
+
+**16.1** Nothing in this Section shall be construed as limiting the obligations of either Party with respect to records retention under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity. With respect to site access, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing site access, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter. Each Party shall designate a representative responsible for escalation procedures. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning business continuity, whereupon Licensor shall evaluate each such request and respond within 10 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels.
+
+**16.2** Licensor shall ensure that all activities relating to transition assistance comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 20 Business Days. Each Party shall designate a representative responsible for governance meetings. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof. Licensor shall ensure that all activities relating to quality assurance comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 20 Business Days.
+
+**16.3** Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning capacity planning, whereupon Licensor shall evaluate each such request and respond within 10 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning invoicing administration, whereupon Licensor shall evaluate each such request and respond within 15 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Licensor shall ensure that all activities relating to site access comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 10 Business Days.
+
+**16.4** Licensor shall ensure that all activities relating to knowledge transfer comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 20 Business Days. Each Party shall designate a representative responsible for equipment usage. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof. Licensor shall ensure that all activities relating to transition assistance comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 20 Business Days.
+
+**16.5** With respect to equipment usage, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing equipment usage, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter. With respect to training, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing training, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning audit cooperation, whereupon Licensor shall evaluate each such request and respond within 5 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels.
+
+
+## Section 17. Force Majeure
+
+**17.1** With respect to records retention, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing records retention, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter. Nothing in this Section shall be construed as limiting the obligations of either Party with respect to change control under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity.
+
+**17.2** With respect to business continuity, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing business continuity, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter. Each Party shall designate a representative responsible for audit cooperation. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof.
+
+**17.3** Each Party shall designate a representative responsible for change control. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning records retention, whereupon Licensor shall evaluate each such request and respond within 10 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning knowledge transfer, whereupon Licensor shall evaluate each such request and respond within 10 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels.
+
+
+## Section 18. General
+
+**18.1** This Agreement is governed by the laws of the State of Delaware.
+
+**18.2** Order of precedence: in the event of conflict, (1) any Amendment, (2) the body of this Agreement, then the remaining Exhibits, then any Order Form.
+
+**18.3** This Agreement may be amended only by a written instrument signed by authorised representatives of both Parties.
+
+
+# EXHIBIT A — FEES
+
+**A.1** Monthly licence fee: $240,000 per month.
+
+**A.2** Additional services: $225 per hour.
+
+**A.6** Termination for Convenience Fee: an amount equal to the monthly licence fee that would have been payable for the lesser of (a) six (6) months or (b) the remainder of the Initial Term.
+
+
+## Section A-Appendix. Measurement Methodology
+
+**A-Appendix.1** Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning documentation standards, whereupon Licensor shall evaluate each such request and respond within 20 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning site access, whereupon Licensor shall evaluate each such request and respond within 15 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. With respect to environmental compliance, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing environmental compliance, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter.
+
+**A-Appendix.2** Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning operational reporting, whereupon Licensor shall evaluate each such request and respond within 5 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning equipment usage, whereupon Licensor shall evaluate each such request and respond within 15 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Nothing in this Section shall be construed as limiting the obligations of either Party with respect to capacity planning under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity.
+
+
+# EXHIBIT B — SERVICE LEVELS
+
+**B.1** Availability target: 99.9% monthly, excluding scheduled maintenance.
+
+**B.2** Severity 1 means a complete loss of production service or any incident affecting Covered Data.
+
+**B.3** Response times: Severity 1 — 15 minutes; Severity 2 — 2 hours; Severity 3 — 1 Business Day.
+
+**B.4** Service Credit: 10% of the monthly monthly licence fee for each 0.1% below the availability target.
+
+**B.5** Service Credits shall not exceed 10% of the monthly monthly licence fee in any month.
+
+**B.6** "Chronic SLA Failure" means failure to meet the availability target in (a) three (3) consecutive months or (b) any five (5) months within a rolling twelve-month period.
+
+
+## Section B-Appendix. Measurement Methodology
+
+**B-Appendix.1** Licensor shall ensure that all activities relating to documentation standards comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 10 Business Days. With respect to change control, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing change control, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter. Licensor shall ensure that all activities relating to business continuity comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 15 Business Days. Each Party shall designate a representative responsible for personnel qualifications. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof.
+
+**B-Appendix.2** With respect to background screening, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing background screening, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning personnel qualifications, whereupon Licensor shall evaluate each such request and respond within 5 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning operational reporting, whereupon Licensor shall evaluate each such request and respond within 20 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Licensor shall ensure that all activities relating to governance meetings comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 20 Business Days.
+
+**B-Appendix.3** Nothing in this Section shall be construed as limiting the obligations of either Party with respect to knowledge transfer under any other provision of this Agreement, and the rights and remedies set forth herein are cumulative and in addition to any other rights or remedies available at law or in equity. Licensor shall ensure that all activities relating to escalation procedures comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 10 Business Days.
+
+
+# EXHIBIT C — SECURITY
+
+**C.1** Licensor shall maintain SOC 2 Type II certification.
+
+**C.2** Restricted Licensee Data means Licensee Data labelled "Restricted" in the data inventory, including employee compensation data.
+
+**C.3** Encryption: AES-256 at rest; TLS 1.2 or higher in transit.
+
+**C.4** Security Breach notification: within forty-eight (48) hours of discovery.
+
+
+## Section C-Appendix. Measurement Methodology
+
+**C-Appendix.1** Licensor shall ensure that all activities relating to records retention comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 20 Business Days. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning capacity planning, whereupon Licensor shall evaluate each such request and respond within 15 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. Each Party shall designate a representative responsible for documentation standards. Such representatives shall confer as reasonably required to coordinate the activities contemplated hereunder, and any agreed modifications shall be memorialised in writing; provided, however, that no such writing shall amend this Agreement unless executed in accordance with the amendment provisions hereof. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning personnel qualifications, whereupon Licensor shall evaluate each such request and respond within 5 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels.
+
+**C-Appendix.2** With respect to governance meetings, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing governance meetings, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter. Licensor shall ensure that all activities relating to governance meetings comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 10 Business Days. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning business continuity, whereupon Licensor shall evaluate each such request and respond within 5 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels.
+
+**C-Appendix.3** With respect to change control, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing change control, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter. Licensor shall ensure that all activities relating to transition assistance comply with Applicable Law and the Licensee Policies. In the event of any inconsistency between a Licensee Policy and an Order Form, the Parties shall negotiate in good faith to resolve such inconsistency within 5 Business Days. Licensee may, in its sole discretion, request reasonable modifications to the practices of Licensor concerning site access, whereupon Licensor shall evaluate each such request and respond within 5 Business Days with a written assessment of the impact thereof on schedule, cost and the Service Levels. With respect to environmental compliance, Licensor shall act in a commercially reasonable manner consistent with prevailing industry practice and the requirements of any applicable Order Form, and shall maintain written procedures governing environmental compliance, which shall be made available to Licensee upon reasonable prior written request not more frequently than once per calendar quarter.
+
+
+# AMENDMENT NO. 1 (Effective January 1, 2026)
+
+**1.** Exhibit A, paragraph A.1 is amended so that the monthly licence fee is $225,600.
+
+**2.** Exhibit B, paragraph B.5 is amended by replacing "10%" with "50%".
+
+
+# AMENDMENT NO. 2 (Effective February 1, 2026)
+
+**1.** Section 15.4(a) is amended by replacing the cure period with twenty (20) days.
+
+**2.** Section 15.1 is amended to extend the Initial Term to thirty-six (36) months.
+
+
+# AMENDMENT NO. 3 (Effective January 1, 2027)
+
+**1.** Section 7.4 is amended so that annual increases shall not exceed 3%, irrespective of any index.
+
+**2.** Exhibit A, paragraph A.1 is amended so that the monthly licence fee is $203,040.
